@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Likhith D.S. — Computer Science Engineer</title>
+<desc id="desc">A modern navy and cyan developer banner with a code-inspired design.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071426"/><stop offset=".55" stop-color="#101d38"/><stop offset="1" stop-color="#152b4c"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#8bb7df" stroke-opacity=".10" stroke-width="1"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="360" rx="24" fill="url(#grid)"/>
+<circle cx="1060" cy="90" r="140" fill="#0ea5e9" opacity=".12" filter="url(#glow)"/>
+<path d="M880 0L1280 0 1280 360 1120 360Z" fill="#0b1428" opacity=".55"/>
+<path d="M920 0L1280 0 1280 18 938 18Z" fill="url(#accent)" opacity=".85"/>
+<path d="M0 310L300 360H0Z" fill="#22d3ee" opacity=".10"/>
+<g fill="none" stroke="url(#accent)" stroke-width="3" opacity=".9">
+  <path d="M930 112l-46 42 46 42"/><path d="M1015 112l46 42-46 42"/><path d="M992 101l-26 104"/>
+  <rect x="1100" y="102" width="112" height="112" rx="18" opacity=".28"/>
+</g>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <text x="88" y="100" fill="#67e8f9" font-size="19" font-weight="700" letter-spacing="5">HELLO, WORLD 👋</text>
+  <text x="84" y="178" fill="#f8fafc" font-size="62" font-weight="800" letter-spacing="-2">Likhith D.S.</text>
+  <rect x="88" y="205" width="90" height="5" rx="3" fill="url(#accent)"/>
+  <text x="88" y="252" fill="#dbeafe" font-size="25" font-weight="600">Computer Science Engineering Student</text>
+  <text x="88" y="294" fill="#9fb6d3" font-size="19">Software Development  •  AI / ML  •  Backend Engineering</text>
+  <text x="88" y="330" fill="#67e8f9" font-family="monospace" font-size="16">while (learning) { build(); improve(); }</text>
+</g>
+<g fill="#93c5fd" opacity=".5"><circle cx="1180" cy="275" r="4"/><circle cx="1210" cy="275" r="4"/><circle cx="1240" cy="275" r="4"/></g>
+</svg>
