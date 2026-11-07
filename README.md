@@ -1,96 +1,78 @@
-# Hi, I'm Likhith D.S. 👋
-
-### Computer Science Engineering Student | Software Development | AI & Machine Learning
-
+<!-- Profile banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Welcome+to+my+GitHub!;Building+practical+software+projects;Exploring+AI%2C+ML+and+Backend+Development;Learning+something+new+every+day" alt="Typing introduction" />
+  <img src="assets/github-banner.svg" alt="Likhith D.S. — Computer Science Engineer" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/likhithds1si23cs099-bit">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Software%20%26%20AI-2563EB?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Learning-16A34A?style=for-the-badge" alt="Status"/>
+  <a href="https://github.com/likhithds1si23cs099-bit"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-2563EB?style=for-the-badge" alt="Software Development"/>
+  <img src="https://img.shields.io/badge/Exploring-AI%20%2F%20ML-7C3AED?style=for-the-badge" alt="AI ML"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1100&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+ideas+into+working+software;Learning+DSA+and+Backend+Engineering;Exploring+AI+and+Machine+Learning;Always+curious.+Always+building." alt="Animated developer introduction"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing a **B.E. in Computer Science and Engineering** at **Siddaganga Institute of Technology, Tumakuru**.
-- 💡 Interested in software development, AI/ML, backend engineering and problem solving.
-- 🧠 Strengthening my foundations in Data Structures, Algorithms and core Computer Science.
-- 🛠️ I enjoy turning ideas into practical projects and learning by building.
-- 🎯 Working towards becoming a well-rounded software developer.
+I'm a **Computer Science and Engineering student at Siddaganga Institute of Technology, Tumakuru**. I enjoy building practical applications, solving programming problems and exploring how AI can improve everyday workflows.
 
-## 🧰 Tech Stack
+- 💻 Interested in **Software Development, AI/ML and Backend Engineering**
+- 🧠 Practising **Data Structures, Algorithms and core CS concepts**
+- 🛠️ Building projects with Python, web technologies and databases
+- 🌱 Focused on learning by building, testing and improving
 
-**Languages**
+## ⚡ Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Web & Backend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Databases & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,react,fastapi,flask,mysql,mongodb,git,github,vscode&perline=7" alt="Technology stack"/>
+</p>
 
 ## 🚀 Featured Projects
 
-### [E-VISTA — Educational Video Insight Platform](https://github.com/likhithds1si23cs099-bit/Evista)
-An educational video learning platform that searches YouTube lectures, transcribes audio with Whisper, and uses Gemini to support summaries, translation, quizzes, flashcards and chat.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://github.com/likhithds1si23cs099-bit/Evista">E-VISTA</a></h3>
+      <p>Educational video insight platform that searches lectures, transcribes audio and supports AI-assisted summaries, translation, quizzes, flashcards and chat.</p>
+      <p><strong>Stack:</strong> React · FastAPI · Whisper · Gemini · SQLite</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/likhithds1si23cs099-bit/MeetingMind_AI">MeetingMind AI</a></h3>
+      <p>Meeting intelligence application that turns transcripts into summaries, decisions, action items, owners, deadlines and transcript-grounded Q&A.</p>
+      <p><strong>Stack:</strong> Python · Streamlit · Ollama · Qwen2.5</p>
+    </td>
+  </tr>
+</table>
 
-**Tech:** React, FastAPI, Whisper, Gemini, SQLite
-
-### [MeetingMind AI](https://github.com/likhithds1si23cs099-bit/MeetingMind_AI)
-A meeting intelligence tool that turns transcripts into summaries, decisions, action items, owners, deadlines and transcript-grounded Q&A. Supports local Qwen2.5 inference through Ollama.
-
-**Tech:** Python, Streamlit, Ollama, Qwen2.5, Pydantic
-
-### [Industrial Accident Prediction Framework](https://github.com/likhithds1si23cs099-bit)
-An academic project exploring machine-learning-based industrial risk classification and safety monitoring.
-
-**Tech:** Python, Flask, MongoDB, Scikit-learn
-
-## 📊 GitHub Overview
+## 📈 GitHub at a Glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=likhithds1si23cs099-bit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithds1si23cs099-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=likhithds1si23cs099-bit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithds1si23cs099-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=likhithds1si23cs099-bit&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=likhithds1si23cs099-bit&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ## 🧩 Coding Practice
 
-- [LeetCode](https://leetcode.com/) — Data Structures and Algorithms
-- [GeeksforGeeks](https://www.geeksforgeeks.org/) — Programming practice
-- [CodeChef](https://www.codechef.com/) — Competitive programming
+<p align="center">
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Learn-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Code-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+</p>
 
-## 🤝 Connect
-
-- **GitHub:** [likhithds1si23cs099-bit](https://github.com/likhithds1si23cs099-bit)
-- **LinkedIn:** Add your LinkedIn profile URL here
-- **Email:** Add your preferred public contact email here
-
----
+## 🤝 Let's Connect
 
 <p align="center">
-  <b>Build • Learn • Improve • Repeat</b><br/>
-  <sub>Thanks for visiting my profile!</sub>
+  <a href="https://github.com/likhithds1si23cs099-bit"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <!-- Add your LinkedIn and public email links here when ready -->
+</p>
+
+<p align="center">
+  <b>Build with curiosity. Learn with consistency. Improve every day.</b><br/>
+  <sub>Thanks for stopping by ✨</sub>
 </p>
